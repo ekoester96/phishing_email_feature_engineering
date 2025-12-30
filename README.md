@@ -1,6 +1,7 @@
 # Phishing Email Feature Engineering
 
 A Python-based feature engineering system for phishing email detection. This tool extracts 70+ behavioral, structural, and content-based features from email data to support machine learning classification models.
+Link to original dataset using CEAS08.csv from kaggle: https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset?select=CEAS_08.csv
 
 ## Overview
 
